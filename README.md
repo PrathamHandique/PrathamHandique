@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pratham Handique</h1>
+<h1 align="center">Hi 👋, I'm PrathamHandique</h1>
 <h3 align="center">Hi, I am passionate coder and eager learner.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathamhandique" alt="prathamhandique" /></a> </p>
@@ -7,9 +7,13 @@
 
 - 🌱 I’m currently learning **Rest_API**
 
+- I have solved 176 Leetcode questions till now. **Leetcode**
+
 - 👨‍💻 All of my projects are available at [https://pratham-cvs.netlify.app/](https://pratham-cvs.netlify.app/)
 
 - 📫 How to reach me **pa2289@srmist.edu.in**
+
+- 📄 Download my resume  [https://drive.google.com/file/d/11f3G8LxqOsjQWCceVhICYPFyXg_G7Ehb/view?usp=sharing](https://drive.google.com/file/d/11f3G8LxqOsjQWCceVhICYPFyXg_G7Ehb/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
