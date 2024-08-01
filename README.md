@@ -5,7 +5,7 @@
 
 - Hi I'm currently learning Express js **Social Post web-app**
 
-- 🌱 I’m currently learning **Rest_API**
+- 🌱 I’m currently learning **Nodejs**
 
 - I have solved 176 Leetcode questions till now. **Leetcode**
 
