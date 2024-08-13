@@ -8,7 +8,7 @@
 
 - I have solved 176 Leetcode questions till now. **Leetcode**
 
-- 👨‍💻 All of my projects are available at [https://pratham-cvs.netlify.app/](https://pratham-cvs.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://pratham-cvs.netlify.app/](https://prathams-reactcv.netlify.app/)
 
 - 📫 How to reach me **pa2289@srmist.edu.in**
 
