@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm PrathamHandique</h1>
-<h3 align="center">Hi, I am passionate coder and eager learner.</h3>
+<h3 align="center">Explore my Work here and please provide Valueble feedback</h3>
 
 
-- Hi I'm currently learning Express js **Social Post web-app**
-
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I have experiences in building projects and tasks with Node/Express  in the backend  and React/Vite in Frontend .
+- Checkout my project Node Hotels (where i have done backend-dev tasks like routing/authentication/hosting/database-connection with node and mongooss.
 
 - I have solved 176 Leetcode questions till now. **Leetcode**
 
