@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm PrathamHandique</h1>
+<h1 align="center">Hi 👋, I'm Pratham</h1>
 <h3 align="center">Explore my Work here and please provide Valueble feedback</h3>
 
 
