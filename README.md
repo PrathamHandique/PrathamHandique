@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **pa2289@srmist.edu.in**
 
-- 📄 Download my resume  [https://drive.google.com/file/d/11f3G8LxqOsjQWCceVhICYPFyXg_G7Ehb/view?usp=sharing](https://drive.google.com/file/d/11f3G8LxqOsjQWCceVhICYPFyXg_G7Ehb/view?usp=sharing)
+- 📄 [Download my resume](https://shorturl.at/9ekzk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
